@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tihhonov
-- 👀 I’m interested in Product managments, experemintations, automation, nocode frameworks. 
-- 🌱 I’m currently learning basics of programming. 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Product managments, experemintations, automation, nocode frameworks.
 - 📫 How to reach me @tihhonov
 
 <!---
